@@ -1,5 +1,5 @@
 # Intoduction-Bio
-Passionate Software Engineer | Building Innovative Solutions
+
 
 👋 Welcome to my GitHub profile! I'm Anfaal Mahbub, a third-year software engineering student currently enrolled in the Schuilich School of Engineering - driven by an unwavering desire to make a positive impact through code.
 
