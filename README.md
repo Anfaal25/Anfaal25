@@ -1,6 +1,8 @@
 # About Me 
 
-👋 Hey there! I'm Anfaal Mahbub, a third-year software engineering student at the Schuilich School of Engineering. I'm passionate about coding and love tackling complex challenges.
+👋 Hey there! 
+
+I'm Anfaal Mahbub, a third-year software engineering student at the Schuilich School of Engineering. I'm passionate about coding and love tackling complex challenges.
 
 I'm fluent in Python, C/C++, and Java, and I'm currently exploring the world of assembly language to deepen my understanding of software development.
 
