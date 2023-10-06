@@ -1,11 +1,25 @@
-# About Me 
+# About Me
 
-👋 Hey there! 
+👋 **Hey there!**
 
-I'm Anfaal Mahbub, a third-year software engineering student at the Schuilich School of Engineering. I'm passionate about coding and love tackling complex challenges.
+I'm **Anfaal Mahbub**, a *third-year software engineering student* at the Schuilich School of Engineering. I'm passionate about coding and love tackling complex challenges.
 
-I'm fluent in Python, C/C++, and Java, and I'm currently exploring the world of assembly language to deepen my understanding of software development.
+## Skills and Technologies
 
-On the front-end, I work with HTML, CSS, and JavaScript to create visually appealing and interactive user experiences. You can check out my projects to see my skills in action.
+- **Languages**: Python, C/C++, Assembly, JavaScript
+- **Technologies**: Socket Programming, Node.js, Express.js
+- **Specialties**: Network Applications, Web Development, Machine Instructions
+- **Creative Pursuits**: Design, Event Management, Photography
+- **Tools**: Git, Visual Studio Code, Adobe Creative Suite
 
-I believe in the power of collaboration and value diverse perspectives. Let's connect and create innovative software solutions together! Reach out to me at anfaal.mahbub@ucalgary.ca or find me on LinkedIn [linkedin.com/in/anfaal-mahbub-b0baa71b1]. Let's redefine what's possible in the world of software engineering!
+## What I Do
+
+Currently, I specialize in **C/C++ Programming** with a split focus on **Python based Socket Programming**, creating robust and efficient network applications. I craft seamless web experiences using **Node.js and Express.js**. In the realm of machine instructions, I leverage **Python** for innovative applications. My creative pursuits extend to design, event management, and photography, capturing moments through my lens.
+
+## Collaboration and Innovation
+
+I believe in the power of **collaboration** and value diverse perspectives. Let's connect and create innovative software solutions together! Reach out to me at [anfaal.mahbub@ucalgary.ca](mailto:anfaal.mahbub@ucalgary.ca) or find me on [LinkedIn](https://linkedin.com/in/anfaal-mahbub-b0baa71b1). Let's redefine what's possible in the world of software engineering! 🚀
+
+---
+
+*Feel free to check out my [projects](https://github.com/Anfaal25?tab=repositories) to witness my skills in action!*
