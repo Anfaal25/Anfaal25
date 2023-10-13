@@ -1,4 +1,4 @@
-# <font color='blue'>About Me</font>
+# About Me
 
 👋 **Hey there!**
 
