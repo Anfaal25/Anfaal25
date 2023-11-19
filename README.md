@@ -23,15 +23,8 @@ Currently, I specialize in **C/C++ Programming** with a split focus on **Python-
 I believe in the power of **collaboration** and value diverse perspectives. Let's connect and create innovative software solutions together! Reach out to me at [anfaal.mahbub@ucalgary.ca](mailto:anfaal.mahbub@ucalgary.ca) or find me on [LinkedIn](https://linkedin.com/in/anfaal-mahbub-b0baa71b1). Let's redefine what's possible in the world of software engineering! 🚀
 
 
+Feel free to check out my [projects](https://github.com/Anfaal25?tab=repositories) to witness my skills in action!
 
-*Feel free to check out my [projects](https://github.com/Anfaal25?tab=repositories) to witness my skills in action!*
----
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anfaal25&show_icons=true&locale=en&layout=compact" alt="anfaal25" />
-</div>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22fddkn55evy44knaopl75axa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
