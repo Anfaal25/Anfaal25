@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&animation=fadeIn&section=header&text=Hey%20There!&fontColor=FFFFFF&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=80&animation=fadeIn&section=header&text=Hey%20There!&fontColor=FFFFFF&fontSize=70" />
 </div>
 
 ---
@@ -29,5 +29,5 @@ Feel free to check out my [projects](https://github.com/Anfaal25?tab=repositorie
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&animation=fadeIn&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=80&animation=fadeIn&section=footer" />
 </div>
