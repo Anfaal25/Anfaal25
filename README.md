@@ -16,7 +16,11 @@ I'm **Anfaal Mahbub**, a *third-year software engineering student* at the Univer
 
 ## <span style="color:red">What I Do</span>
 
-Currently, I specialize in **C/C++ Programming** with a split focus on **Python-based Socket Programming**, creating robust and efficient network applications. I craft seamless web experiences using **Node.js and Express.js**. In the realm of machine instructions, I leverage **Python** for innovative applications. My creative pursuits extend to design, event management, and photography, capturing moments through my lens.
+I specialize in **C/C++ Programming** with a dual focus on **Python-based Socket Programming** and the development of robust and efficient network applications. Additionally, I am actively expanding my knowledge in **Machine Learning** and **Software Architecture**.
+
+In the realm of web development, I craft seamless user experiences using **Node.js and Express.js**, while my expertise in machine instructions is channeled through **Python** for creating innovative applications.
+
+Beyond the world of coding, my creative pursuits encompass design, event management, and photography, allowing me to capture unforgettable moments through my lens.
 
 ## <span style="color:orange">Collaboration and Innovation</span>
 
