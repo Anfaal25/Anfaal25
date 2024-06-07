@@ -10,9 +10,9 @@ I'm **Anfaal Mahbub**, a *third-year software engineering student* at the Univer
 
 - **Languages**: Python, C/C++, Java, Assembly, JavaScript, TypeScript
 - **Technologies**: Socket Programming, Node.js, Express.js, MySQL, Docker, Ansible, MySQL, React
-- **Specialties**: Network Applications, Web Development, Embedded Systems, Design Patterns, Backend Development
+- **Specialties**: Object Oriented Programming, Network Applications, Web Development, Embedded Systems, Design Patterns, Backend Development
 - **Creative Pursuits**: Design, Event Management, Photography, Formula 1
-- **Tools**: Git, Github, Visual Studio Code, Adobe Creative Suite, Microsoft Office, Selenium
+- **Tools**: Git, Github, JUnit, JIRA, Selenium, Visual Studio Code, Adobe Creative Suite, Microsoft Office
 
 ## <span style="color:red">What I Do</span>
 
