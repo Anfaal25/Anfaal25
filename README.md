@@ -4,7 +4,7 @@
 
 ---
 
-I'm **Anfaal Mahbub**, a *third-year software engineering student* at the University of Calgary. I'm passionate about coding and love tackling complex challenges.
+I'm **Anfaal Mahbub**, a *final-year software engineering student* at the University of Calgary. I'm passionate about coding and love tackling complex challenges.
 
 ## <span style="color:green">Skills and Technologies</span>
 
