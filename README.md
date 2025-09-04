@@ -29,7 +29,7 @@ I believe in the power of **collaboration** and value diverse perspectives. Let'
 
 Feel free to check out my [projects](https://github.com/Anfaal25?tab=repositories) to witness my skills in action!
 
-Check out my [resume](https://github.com/Anfaal25/Anfaal25/blob/main/Anfaal_Resume_.pdf) to get a read on my experience and knowledge!
+Check out my [resume](https://github.com/Anfaal25/Anfaal25/blob/main/Anfaal_Resume.pdf) to get a read on my experience and knowledge!
 
 
 ---
