@@ -48,7 +48,7 @@
 
 ## 🧠 **What I Do**
 
-I specialize in **C/C++ systems programming** and **Python-based socket programming**, building efficient and reliable networked applications.
+I specialize in **C/C++ systems programming** and **Python-based ML programming**, building efficient and reliable models & applications.
 
 I also work extensively in backend development with **Node.js + Express**, and I’m expanding into **Machine Learning**, cloud deployments, and large-scale system design.
 
@@ -69,7 +69,7 @@ I love creating things that blend engineering, creativity, and real-world impact
 | **🧠 Neuroscience ML Model** | Modular model for behavioral prediction built with a 5-engineer team | Python, Pandas, Scikit-Learn |
 | **⚡ SCADA Automation Toolkit** | Automated legacy schematic normalization for ATCO’s SCADA upgrade | PowerShell, AutoCAD APIs |
 | **📘 StudySync Platform** | Full-stack collaboration tool built as a capstone-style team project | Node.js, Express.js, React |
-| **🚀 SOAR Rocket Dashboard** | Real-time telemetry visualization dashboard for engine tests | Svelte, Chart.js, PocketBase |
+
 
 > Explore all repositories → **https://github.com/Anfaal25?tab=repositories**
 
@@ -85,9 +85,8 @@ I love creating things that blend engineering, creativity, and real-world impact
 ---
 
 ## 📚 **Currently Learning**
+- Machine Learning deployment 
 - Kubernetes & Terraform  
-- Ansible for automation  
-- Machine Learning deployment  
 - Infrastructure-as-Code  
 - Grid technologies & industrial systems  
 
