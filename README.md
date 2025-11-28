@@ -1,36 +1,107 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=80&animation=fadeIn&section=header&text=Hey%20There!&fontColor=FFFFFF&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=90&animation=fadeIn&section=header&text=Hey%20There!&fontColor=FFFFFF&fontSize=65" />
 </div>
+
+<h3 align="center">I'm <strong>Anfaal Mahbub</strong> — a Final-Year Software Engineering Student at the University of Calgary.</h3>
+<p align="center">
+  I build real-world systems that blend software, data, and critical infrastructure.<br/>
+  Passionate about engineering, reliability, and modernizing the world through technology.
+</p>
 
 ---
 
-I'm **Anfaal Mahbub**, a *final-year software engineering student* at the University of Calgary. I'm passionate about coding and love tackling complex challenges.
+## 🧰 **Skills and Technologies**
 
-## <span style="color:green">Skills and Technologies</span>
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-3949AB?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-- **Languages**: Python, C/C++, Java, Assembly, JavaScript, TypeScript
-- **Technologies**: Socket Programming, Node.js, Express.js, MySQL, Docker, Ansible, MySQL, React
-- **Specialties**: Object Oriented Programming, Network Applications, Web Development, Embedded Systems, Design Patterns, Backend Development
-- **Creative Pursuits**: Design, Event Management, Photography, Formula 1
-- **Tools**: Git, Github, JUnit, JIRA, Selenium, Visual Studio Code, Adobe Creative Suite, Microsoft Office
+### **Technologies & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
 
-## <span style="color:red">What I Do</span>
+### **Specialties**
+- Object-Oriented Programming  
+- Network Applications & Socket Programming  
+- Backend Development  
+- Design Patterns & Software Architecture  
+- Embedded Systems  
+- Automation & Scripting  
+- Machine Learning Foundations  
 
-I specialize in **C/C++ Programming** with a dual focus on **Python-based Socket Programming** and the development of robust and efficient network applications. Additionally, I am actively expanding my knowledge in **Machine Learning** and **Software Architecture**.
+---
 
-In the realm of web development, I craft seamless user experiences using **Node.js and Express.js**, while my expertise in machine instructions is channeled through **Python** for creating innovative applications.
+## 🧠 **What I Do**
 
-Beyond the world of coding, my creative pursuits encompass design, event management, and photography, allowing me to capture unforgettable moments through my lens.
+I specialize in **C/C++ systems programming** and **Python-based socket programming**, building efficient and reliable networked applications.
 
-## <span style="color:orange">Collaboration and Innovation</span>
+I also work extensively in backend development with **Node.js + Express**, and I’m expanding into **Machine Learning**, cloud deployments, and large-scale system design.
 
-I believe in the power of **collaboration** and value diverse perspectives. Let's connect and create innovative software solutions together! Reach out to me at [anfaal.mahbub@ucalgary.ca](mailto:anfaal.mahbub@ucalgary.ca) or find me on [LinkedIn](https://linkedin.com/in/anfaal-mahbub-b0baa71b1). Let's redefine what's possible in the world of software engineering! 🚀
+Beyond code, I dive into:
+- **Design** and UI thinking  
+- **Event management** & leadership  
+- **Photography**  
+- **Formula 1** (Mercedes fan 🏎️💨)  
 
+I love creating things that blend engineering, creativity, and real-world impact.
 
-Feel free to check out my [projects](https://github.com/Anfaal25?tab=repositories) to witness my skills in action!
+---
 
-Check out my [resume](https://github.com/Anfaal25/Anfaal25/blob/main/Anfaal_Resume.pdf) to get a read on my experience and knowledge!
+## 🚀 **Featured Projects**
 
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **🧠 Neuroscience ML Model** | Modular model for behavioral prediction built with a 5-engineer team | Python, Pandas, Scikit-Learn |
+| **⚡ SCADA Automation Toolkit** | Automated legacy schematic normalization for ATCO’s SCADA upgrade | PowerShell, AutoCAD APIs |
+| **📘 StudySync Platform** | Full-stack collaboration tool built as a capstone-style team project | Node.js, Express.js, React |
+| **🚀 SOAR Rocket Dashboard** | Real-time telemetry visualization dashboard for engine tests | Svelte, Chart.js, PocketBase |
+
+> Explore all repositories → **https://github.com/Anfaal25?tab=repositories**
+
+---
+
+## 📈 **GitHub Analytics**
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anfaal25&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anfaal25&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📚 **Currently Learning**
+- Kubernetes & Terraform  
+- Ansible for automation  
+- Machine Learning deployment  
+- Infrastructure-as-Code  
+- Grid technologies & industrial systems  
+
+---
+
+## 🤝 **Collaboration & Innovation**
+
+I believe great engineering happens when **diverse minds build together**.  
+Whether it's software systems, data-driven tools, or infrastructure tech — I love working in teams and solving problems that matter.
+
+📩 **Reach out**: [anfaal.mahbub@ucalgary.ca](mailto:anfaal.mahbub@ucalgary.ca)  
+🔗 **LinkedIn**: https://linkedin.com/in/anfaal-mahbub-b0baa71b1  
+
+Check out my work below — every project tells a story of impact, learning, and engineering growth.
 
 ---
 
