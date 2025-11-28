@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=90&animation=fadeIn&section=header&text=Hey%20There!&fontColor=FFFFFF&fontSize=65" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Anfaal+Mahbub;Software+Engineer+in+the+Making;Machine+Learning+%7C+Backend+%7C+Systems;Always+Building.+Always+Learning." />
 </div>
+
+
+
+
 
 <h3 align="center">I'm <strong>Anfaal Mahbub</strong> — a Final-Year Software Engineering Student at the University of Calgary.</h3>
 <p align="center">
@@ -36,13 +40,15 @@
 </p>
 
 ### **Specialties**
+- Machine Learning Foundations 
 - Object-Oriented Programming  
 - Network Applications & Socket Programming  
-- Backend Development  
+- Backend Development
+- Automation & Scripting  
 - Design Patterns & Software Architecture  
 - Embedded Systems  
-- Automation & Scripting  
-- Machine Learning Foundations  
+
+ 
 
 ---
 
@@ -56,7 +62,7 @@ Beyond code, I dive into:
 - **Design** and UI thinking  
 - **Event management** & leadership  
 - **Photography**  
-- **Formula 1** (Mercedes fan 🏎️💨)  
+- **Formula 1** (Big time Mercedes AMG Petronas F1 Fan 🏎️💨)  
 
 I love creating things that blend engineering, creativity, and real-world impact.
 
