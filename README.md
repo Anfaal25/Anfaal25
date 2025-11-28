@@ -3,10 +3,11 @@
 </div>
 
 
-<h3 align="center">Final-Year Software Engineering Student at the University of Calgary.</h3>
+
 <p align="center">
+  Final-year Software Engineering student at the University of Calgary.<br/>
   I build real-world systems that blend software, data, and critical infrastructure.<br/>
-  Passionate about engineering, reliability, and modernizing the world through technology.
+  Driven by reliability, innovation, and engineering impact.
 </p>
 
 ---
@@ -29,6 +30,8 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -37,68 +40,87 @@
 </p>
 
 ### **Specialties**
-- Machine Learning Foundations 
+- Machine Learning & Data Pipelines  
 - Object-Oriented Programming  
 - Network Applications & Socket Programming  
-- Backend Development
-- Automation & Scripting  
+- Backend Development  
 - Design Patterns & Software Architecture  
 - Embedded Systems  
+- Automation & Scripting  
 
- 
 
 ---
+
 ## 🧠 **What I Do**
 
-I specialize in **C/C++ systems programming** and **Python-based ML programming**, building efficient and reliable models & applications.
+I engineer systems that connect real-world data, backend logic, and reliable software infrastructure.
 
-I also work extensively in backend development with **Node.js + Express**, and I’m expanding into **Machine Learning**, cloud deployments, and large-scale system design.
+My work spans:
+- **Machine Learning pipelines & data processing**
+- **C/C++ systems programming**  
+- **Python-based socket applications & network services**  
+- **Backend development with Node.js + Express**  
+- **Infrastructure automation with Docker, Ansible, Kubernetes, Terraform**  
 
-Beyond code, I dive into:
-- **Design** and UI thinking  
-- **Event management** & leadership  
-- **Photography**  
-- **Formula 1** (Big time Mercedes AMG Petronas F1 Fan 🏎️💨)  
 
-I love creating things that blend engineering, creativity, and real-world impact.
+Beyond coding, I enjoy design, event management, photography and Motorsports — bringing creativity and engineering disciplines together.
 
 ---
-
 
 ## 🚀 **Featured Projects**
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **🧠 Neuroscience ML Model** | Modular model for behavioral prediction built with a 5-engineer team | Python, Pandas, Scikit-Learn |
-| **⚡ SCADA Automation Toolkit** | Automated legacy schematic normalization for ATCO’s SCADA upgrade | PowerShell, AutoCAD APIs |
-| **📘 StudySync Platform** | Full-stack collaboration tool built as a capstone-style team project | Node.js, Express.js, React |
+| **🧠 Neuroscience ML Model** | - Built modular ML pipeline for behavioral prediction<br> - Led a 5-engineer team; improved data processing efficiency | Python, Pandas, NumPy, ML |
+| **⚡ SCADA Automation Toolkit** | - Automated normalization of legacy SCADA schematics<br> - Reduced manual engineering workload by ~40% | PowerShell, AutoCAD APIs |
+| **📘 StudySync Platform** | - Full-stack collaboration tool<br> - Managed team, versioning, architecture & documentation | Node.js, Express.js, React |
 
 
-> Explore all repositories → **https://github.com/Anfaal25?tab=repositories**
+🔎 Explore all repositories → **https://github.com/Anfaal25?tab=repositories**
 
 ---
 
+## 📈 **GitHub Analytics**
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anfaal25&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anfaal25&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anfaal25&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anfaal25&color=brightgreen" />
+</p>
+
+---
 
 ## 📚 **Currently Learning**
-- Machine Learning deployment 
-- Kubernetes & Terraform  
-- Infrastructure-as-Code  
-- Grid technologies & industrial systems  
+- Machine Learning Principles and Concepts
+- Kubernetes & Container Orchestration  
+- Terraform & Infrastructure-as-Code  
+- Ansible for automation  
+- Cybersecurity Fundamentals  
+- Real-time data pipelines & operational systems  
 
 ---
 
 ## 🤝 **Collaboration & Innovation**
 
-I believe great engineering happens when **diverse minds build together**.  
-Whether it's software systems, data-driven tools, or infrastructure tech — I love working in teams and solving problems that matter.
+I believe great engineering happens with diverse ideas and strong communication.  
+Whether it's backend systems, ML models, or infrastructure automation — I enjoy solving meaningful problems with teams.
 
-📩 **Reach out**: [anfaal.mahbub@ucalgary.ca](mailto:anfaal.mahbub@ucalgary.ca)  
-🔗 **LinkedIn**: https://linkedin.com/in/anfaal-mahbub-b0baa71b1  
+📬 **Email:** [anfaal.mahbub@ucalgary.ca](mailto:anfaal.mahbub@ucalgary.ca)  
+🔗 **LinkedIn:** https://linkedin.com/in/anfaal-mahbub-b0baa71b1  
 
-Check out my work below — every project tells a story of impact, learning, and engineering growth.
+# 
 
-
+<div align="center"><i>"Engineering systems that connect people, data, and real-world impact."</i></div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=80&animation=fadeIn&section=footer" />
 </div>
+
+
