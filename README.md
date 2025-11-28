@@ -3,10 +3,7 @@
 </div>
 
 
-
-
-
-<h3 align="center">I'm <strong>Anfaal Mahbub</strong> — a Final-Year Software Engineering Student at the University of Calgary.</h3>
+<h3 align="center">Final-Year Software Engineering Student at the University of Calgary.</h3>
 <p align="center">
   I build real-world systems that blend software, data, and critical infrastructure.<br/>
   Passionate about engineering, reliability, and modernizing the world through technology.
@@ -51,7 +48,6 @@
  
 
 ---
-
 ## 🧠 **What I Do**
 
 I specialize in **C/C++ systems programming** and **Python-based ML programming**, building efficient and reliable models & applications.
@@ -67,6 +63,7 @@ Beyond code, I dive into:
 I love creating things that blend engineering, creativity, and real-world impact.
 
 ---
+
 
 ## 🚀 **Featured Projects**
 
@@ -108,7 +105,7 @@ Whether it's software systems, data-driven tools, or infrastructure tech — I l
 
 Check out my work below — every project tells a story of impact, learning, and engineering growth.
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=80&animation=fadeIn&section=footer" />
