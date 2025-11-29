@@ -87,9 +87,6 @@ Beyond coding, I enjoy design, event management, photography and Motorsports —
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anfaal25&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anfaal25&theme=tokyonight" height="170" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anfaal25&color=brightgreen" />
