@@ -78,19 +78,6 @@ Beyond coding, I enjoy design, event management, photography and Motorsports —
 
 🔎 Explore all repositories → **https://github.com/Anfaal25?tab=repositories**
 
----
-
-## 📈 **GitHub Analytics**
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anfaal25&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anfaal25&layout=compact&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anfaal25&color=brightgreen" />
-</p>
 
 ---
 
