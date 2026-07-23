@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  Final-year Software Engineering student at the University of Calgary.<br/>
+  Software Engineering Graduate from The University of Calgary.<br/>
   I build real-world systems that blend software, data, and critical infrastructure.<br/>
   Driven by reliability, innovation, and engineering impact.
 </p>
